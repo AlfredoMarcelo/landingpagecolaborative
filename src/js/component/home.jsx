@@ -8,6 +8,7 @@ import { Card } from "./Card";
 const Home = () => {
 	return (
 		<>
+			<Navbar />
 			<div className="container">
 				<Jumbotron />
 				<div className="row">
@@ -25,6 +26,7 @@ const Home = () => {
 					</div>
 				</div>
 			</div>
+			<Footer />
 		</>
 	);
 };
