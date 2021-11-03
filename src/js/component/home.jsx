@@ -12,16 +12,16 @@ const Home = () => {
 			<div className="container">
 				<Jumbotron />
 				<div className="row">
-					<div className="col-3">
+					<div className="col-lg-3 col-md-12 col-sm-12 col-12">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-lg-3 col-md-12 col-sm-12 col-12">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-lg-3 col-md-12 col-sm-12 col-12">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-lg-3 col-md-12 col-sm-12 col-12">
 						<Card />
 					</div>
 				</div>
