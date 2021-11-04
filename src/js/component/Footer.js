@@ -5,7 +5,7 @@ export const Footer = props => {
 		<footer className="bg-dark text-center text-white">
 			<div class="row">
 				<div>
-				<p>Copyright &copy; Your Website Name 2019</p>
+					<p>Copyright &copy; Your Website Name 2019</p>
 				</div>
 			</div>
 		</footer>
